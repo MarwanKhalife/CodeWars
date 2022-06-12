@@ -15,25 +15,25 @@
 
 const stringToNumber = function(str){
     return Number(str)
-  };
+};
 
-  // OR
+// OR
 
-  var stringToNumber = function(str){
+var stringToNumber = function(str){
     return parseInt(str);
-  };
+};
 
-  // OR
+// OR
 
-  var stringToNumber = function(str){
+var stringToNumber = function(str){
     return +str;
-  };
+};
 
 
-  // OR
+// OR
 
-  const stringToNumber = str => Number(str);
+const stringToNumber = str => Number(str);
 
-  // OR
+// OR
 
-  var stringToNumber = Number;
+var stringToNumber = Number;
