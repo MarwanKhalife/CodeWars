@@ -9,7 +9,7 @@ Examples (Input --> Output)
 "a234"   -->  false */
 
 // SOLUTIONS =========================================
-
+//This solution is explained below the code block
 function validatePIN(pin) {
     return /^(\d{4}|\d{6})$/.test(pin)
 }
