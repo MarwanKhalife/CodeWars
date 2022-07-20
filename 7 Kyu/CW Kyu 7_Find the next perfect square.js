@@ -12,7 +12,7 @@
 // 625 --> 676
 // 114 --> -1 since 114 is not a perfect square
 
-// Solution approach: 
+// ++++ Solution approach: 
 // Step 1: check if the perfect square root of the given number (sq) in this case, is available. 
 // Step 2: if yes, then simply get the square of  (sq)+1. 
 // Step 3: if no, return false (-1). 
