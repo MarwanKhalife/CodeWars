@@ -36,6 +36,3 @@ function stringToArray(string){
     traverse(string);
     return result;
 }
-
-// OR
-
